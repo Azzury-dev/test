@@ -1,4 +1,6 @@
 -- @ScriptType: Script
+
+-- @ScriptType: Script
 local HttpsService = game:GetService("HttpService")
 
 local plugin = plugin
